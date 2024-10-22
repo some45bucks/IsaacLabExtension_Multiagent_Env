@@ -50,7 +50,7 @@ from omni.isaac.lab_tasks.utils.wrappers.rsl_rl import (
 )
 
 # Import extensions to set up environment tasks
-import ext_template.tasks  # noqa: F401
+import Multiagent_Env.tasks  # noqa: F401
 
 
 def main():
